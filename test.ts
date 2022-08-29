@@ -1,0 +1,1 @@
+const tset: string = "name";
